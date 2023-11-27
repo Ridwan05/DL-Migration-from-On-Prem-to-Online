@@ -1,4 +1,5 @@
 # DL-Migration-from-On-Prem-to-Online
+# NB: This was copied from here CatapultSystems blog and the original blog can be found [here](https://www.catapultsystems.com/blogs/migrate-distribution-groups-from-exchange-on-premise-to-exchange-online/). I saved it here incase the blog goes down. 
 
 ## Step 1 – Exchange On-Premise: export all information for distribution groups
 ### Exchange On-Premise: Export data
